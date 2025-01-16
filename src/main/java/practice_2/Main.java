@@ -1,5 +1,7 @@
 package practice_2;
 
+import practice_3.Test1;
+
 public class Main {
     public static void main(String[] args) {
         // проверка конструктора по умолчанию
