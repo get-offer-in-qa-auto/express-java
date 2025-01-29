@@ -6,6 +6,11 @@ public class Car extends Transport {
     }
 
     @Override
+    public String toString() {
+        return super.toString();
+    }
+
+    @Override
     public void start() {
         System.out.println("Машина поехала");
     }
